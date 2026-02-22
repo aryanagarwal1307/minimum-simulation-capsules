@@ -1,0 +1,12 @@
+# ignore the container
+containers/
+
+# ignore jupyter checkpoints
+.ipynb/checkpoints
+
+# ignore any conda env files 
+.env/
+
+# ignore OS files
+.DS_Store
+
