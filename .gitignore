@@ -2,11 +2,12 @@
 containers/
 
 # ignore jupyter checkpoints
-.ipynb/checkpoints
+.ipynb_checkpoints/
 
 # ignore any conda env files 
 .env/
 
 # ignore OS files
 .DS_Store
+
 
